@@ -12,7 +12,7 @@ module Dance
   end 
   
   def take_a_bow
-    "Thank youm thank you. It was a pleasure to dance for you all."
+    "Thank you thank you. It was a pleasure to dance for you all."
   end 
     
 end 
